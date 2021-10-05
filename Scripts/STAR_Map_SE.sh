@@ -1,0 +1,1 @@
+STAR --genomeDir [path_to_indexed_genome_reference_directory] --readFilesIn <trimmed_single_end_fastq.gz file> --readFilesCommand gzcat --runThreadN [desired_number_of_threads] --outFilterMultimapNmax 200 --outFilterIntronMotifs RemoveNoncanonicalUnannotated --alignEndsProtrude 10 ConcordantPair --outSAMtype BAM SortedByCoordinate --outFileNamePrefix [desired_prefix_for_output]

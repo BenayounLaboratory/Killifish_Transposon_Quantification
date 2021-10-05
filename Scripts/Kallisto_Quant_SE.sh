@@ -1,0 +1,1 @@
+kallisto quant -i <transcriptome_index.idx> --single -l [Integer] -s [Integer] <trimmed_single_end_fastq.gz file> -o [name_of_output_directory] --plaintext
