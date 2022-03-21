@@ -1,1 +1,0 @@
-kallisto index -i <transcriptome_index.idx> <transcriptome.fasta>

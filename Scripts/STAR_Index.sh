@@ -1,1 +1,0 @@
-STAR --runThreadN [integer] --runMode genomeGenerate --genomeDir [directory_to_contain_indexed_genome] --genomeFastaFiles <Genome_with_TEs.fa> --sjdbGTFfile <GTF_with_TEs.gtf>

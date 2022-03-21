@@ -1,1 +1,0 @@
-RepeatMasker <Genome.fa> -lib <FishTEDB_TE_sequences.fa>

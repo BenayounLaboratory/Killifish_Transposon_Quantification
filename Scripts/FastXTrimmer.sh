@@ -1,1 +1,0 @@
-gzcat <fastq.gz> | fastx_trimmer -f [Integer] -l [Integer] -z -i - -Q33 -o [name_of_outfile]
