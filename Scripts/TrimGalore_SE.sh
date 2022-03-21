@@ -1,0 +1,1 @@
+trim_galore -q [Integer] --length [Integer] --stringency [Integer] <single_hardtrimmed.fq.gz> -o [output_directory]

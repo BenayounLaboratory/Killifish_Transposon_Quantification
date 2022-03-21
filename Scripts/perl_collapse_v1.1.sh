@@ -1,0 +1,1 @@
+perl collapse_perl.pl <kallisto_count_matrix.txt> <.../abundance.tsv 1> <.../abundance.tsv 2> ... <.../abundance.tsv N>

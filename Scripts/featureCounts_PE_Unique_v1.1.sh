@@ -1,0 +1,1 @@
+featureCounts -O -p --primary -a <GTF_with_TEs.gtf> -o <featureCounts_Count_Matrix.txt> <bam_file1.bam> <bam_file2.bam> ... <bam_fileN.bam>

@@ -1,0 +1,1 @@
+kallisto index -i <transcriptome_index.idx> <transcriptome_with_TEs_added.fasta>
